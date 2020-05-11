@@ -1,0 +1,12 @@
+{
+  "name": "webpack-reference",
+  "version": "1.0.0",
+  "description": "Examples of how to use Webpack",
+  "main": "index.js",
+  "repository": "git@github.com:Fitzpa/webpack-reference.git",
+  "author": "Louie Fitzpatrick",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
